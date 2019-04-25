@@ -1,4 +1,4 @@
-# flutter_app_samplet
+# flutter_sandbox
 
 A new Flutter application.
 
