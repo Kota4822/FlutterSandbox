@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class IncrementPageIncrementPage extends StatefulWidget {
+class IncrementPage extends StatefulWidget {
 
   IncrementPage({Key key, this.title}) : super(key: key);
 

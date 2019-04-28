@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'DefaultSample/increment.dart';
+import 'DefaultSample/Increment.dart';
+import 'Layout/LayoutMainPage.dart';
 
 void main() => runApp(MyApp());
 
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: IncrementPage(title: 'Flutter Sandbox'),
+      home: LayoutMainPage(),
     );
   }
 }
